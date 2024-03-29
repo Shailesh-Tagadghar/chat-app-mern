@@ -5,3 +5,4 @@ to run backend --- npm run server
 to run both --- npm start (it will open both on 5000 port)
 
 
+https://chat-app-mern-puuc.onrender.com/
